@@ -4,3 +4,6 @@ Part of the **Foundations Course (HTML Foundations)** by [The Odin Project](http
 ## Image Credits
 
 Images in this project are from [Pixabay](https://pixabay.com/).
+
+## [Live preview](https://ablzh.github.io/odin-recipes/index.html)
+
